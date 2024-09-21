@@ -1,0 +1,3 @@
+1;696969;12345;Ivan Rupay;ivan@email.com
+2;696969;12345;Sebastian Alvarez;sebas@email.com
+3;696969;12345;Carlos Sanchez;carl@email.com
