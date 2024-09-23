@@ -9,6 +9,7 @@ import pe.edu.cibertec.patitas_backend.service.AuthenticationService;
 import java.io.IOException;
 
 @RestController
+@CrossOrigin
 @RequestMapping("/authentication")
 public class AuthenticationController {
 
